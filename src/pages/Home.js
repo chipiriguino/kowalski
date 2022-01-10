@@ -26,10 +26,10 @@ function Home() {
         <Newsletter />
 
       </main>
+      
 
       {/*  Site footer */}
       <Footer />
-
     </div>
   );
 }
