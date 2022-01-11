@@ -12,6 +12,7 @@ import { focusHandling } from 'cruip-js-toolkit';
 
 import Home from './pages/Home';
 import Privacity from './pages/Privacity';
+import WApp from './utils/WhatsApp';
 
 function App() {
 
@@ -43,6 +44,7 @@ function App() {
           <Privacity/>
         </Route>
       </Switch>
+      <WApp/>
     </>
   );
 }
