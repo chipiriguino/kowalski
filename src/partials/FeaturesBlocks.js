@@ -50,7 +50,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Planteamiento</h4>
-              <p className="text-gray-600 text-center">Escuchamos sus necesidades y estudiamos como solucionarlas</p>
+              <p className="text-gray-600 text-center">Escuchamos sus necesidades y estudiamos como solucionarlas.</p>
             </div>
 
             {/* 3rd item */}
@@ -82,7 +82,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>              
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Primer prototipo</h4>
-              <p className="text-gray-600 text-center">Diseñamos un primer boceto, que cuando se apruebe comenzaremos a trabajar</p>
+              <p className="text-gray-600 text-center">Diseñamos un primer boceto, que cuando se apruebe comenzaremos a trabajar en el desarrollo.</p>
             </div>
 
             {/* 5th item */}
@@ -97,7 +97,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Empieza el Desarrollo</h4>
-              <p className="text-gray-600 text-center">Ya con las funcionalidades y diseño, empezamos el desarrollo y diseño de la web</p>
+              <p className="text-gray-600 text-center">Ya con las funcionalidades y diseño, empezamos el desarrollo y diseño de la web.</p>
             </div>
 
             {/* 6th item */}
@@ -114,7 +114,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Testing y Alojamiento</h4>
-              <p className="text-gray-600 text-center">Se testea toda la web y se procede al alojamiento del producto en un servidor web.</p>
+              <p className="text-gray-600 text-center">Se testea toda la web y se procede al alojamiento del producto en un servidor online.</p>
             </div>
 
           </div>

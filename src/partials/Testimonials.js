@@ -36,27 +36,27 @@ function Testimonials() {
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></img>
+             <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="image0"></img>
             </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-            <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></img>
+            <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="image1"></img>
             </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></img>
+            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="image2"></img>
             </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-            <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></img>
+            <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="image3"></img>
             </div>
 
             {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto col-start-2 col-end-4">
-            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></img>
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto col-start-2 col-end-4" >
+            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="image4"></img>
             </div>
 
           </div>
@@ -78,7 +78,7 @@ function Testimonials() {
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">Jose Luis Blasco Ortiz</cite>
                 <div className="text-gray-600">
-                  <span>CEO & Founder</span> <a className="text-blue-600 hover:underline" href="#0">@Chipiriguino</a>
+                  <span>CEO & Founder</span> <a className="text-blue-600 hover:underline" href="https://www.linkedin.com/in/joseluis-blascoortiz/">@Chipiriguino</a>
                 </div>
               </div>
 

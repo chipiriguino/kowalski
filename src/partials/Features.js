@@ -52,7 +52,7 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Estudio y diseño de sitio web</div>
-                    <div className="text-gray-600">Antes de empezar a construir su nueva web hay que saber como y que funcionalidades necesita.</div>
+                    <div className="text-gray-600">Antes de empezar a construir su nueva web hay que saber cómo y qué funcionalidades necesita.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -67,7 +67,7 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Desarrollo del entorno online</div>
-                    <div className="text-gray-600">Se programa y diseña, se desarrolan las funcionalidades y se adapta para todos los dispositivos.</div>
+                    <div className="text-gray-600">Se programa y diseña, se desarrollan las funcionalidades y se adapta para todos los dispositivos.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
