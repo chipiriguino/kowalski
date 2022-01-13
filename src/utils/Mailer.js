@@ -7,10 +7,10 @@ const Mailer =()=>{
         e.preventDefault();
        
 
-        emailjs.sendForm('service_fxqdar7','template_f9p5l1e',e.target,"user_AHhPpfn70SF6s1ohuMSvd").then(res=>{
+        emailjs.sendForm('service_se0h7wh','template_2eda13b',e.target,"user_hzCIo2Es0ioVYX6RgXHKu").then(res=>{
             console.log(res);
             window.location.reload();
-            alert("mensaje enviado con éxito, en breve recibirá una confirmación de su pedido. Gracias")
+            alert("mensaje enviado con éxito, en breve recibirá una respuesta. Gracias")
 
         }).catch(err=> console.log(err));
     }
